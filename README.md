@@ -46,5 +46,5 @@ The options are:
 
 minlength: is the length of input including the separators
 mask: is the jquery-mask string. [See jquery-mask usage](https://igorescobar.github.io/jQuery-Mask-Plugin/docs.html#basic-usage)
-maskoptions: is the options for jquery-mask. [See jquery-mask options] (https://igorescobar.github.io/jQuery-Mask-Plugin/docs.html#field-options)
+maskoptions: is the options for jquery-mask. [See jquery-mask options](https://igorescobar.github.io/jQuery-Mask-Plugin/docs.html#field-options)
 format: is the momentjs date format. [See Momentjs usage](https://momentjs.com/)
