@@ -3,7 +3,7 @@ Package.describe({
   summary: 'Custom date mask input type for AutoForm',
   documentation: './README.md',
   git: 'https://github.com/jkutianski/meteor-autoform-datemask.git',
-  version: '0.0.1'
+  version: '0.0.2'
 });
 
 Package.onUse(function(api) {
