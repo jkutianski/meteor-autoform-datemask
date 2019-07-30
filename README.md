@@ -1,5 +1,5 @@
 # meteor-autoform-datemask
-Is a input date type based on jQuery-Mask-Plugin for Meteor Autoform
+Is a input date type based on [jQuery-Mask-Plugin](https://igorescobar.github.io/jQuery-Mask-Plugin/) for Meteor Autoform
 
 ## Install it
 `meteor add jkutianski:autoform-datemask`
