@@ -4,7 +4,7 @@ Is a input date type based on [jQuery-Mask-Plugin](https://igorescobar.github.io
 ## Install it
 `meteor add jkutianski:autoform-datemask`
 
-This package is based on `jquery-mask-plugin` be sure that is loaded before use this plugin.
+This package is based on [jQuery-Mask-Plugin](https://igorescobar.github.io/jQuery-Mask-Plugin/), be sure that is loaded before use this plugin.
 At the moment the Meteor package on Atmotphere has problem. I recomend copy it on `/packages` and change the `packages.js` whit this one.
 ```
 Package.describe({
