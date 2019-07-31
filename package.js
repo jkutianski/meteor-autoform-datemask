@@ -3,7 +3,7 @@ Package.describe({
   summary: 'Custom date mask input type for AutoForm',
   documentation: './README.md',
   git: 'https://github.com/jkutianski/meteor-autoform-datemask.git',
-  version: '0.0.2'
+  version: '0.0.3'
 });
 
 Package.onUse(function(api) {
@@ -14,7 +14,7 @@ Package.onUse(function(api) {
     'underscore@1.0.0',
     'momentjs:moment@2.17.0',
     'aldeed:autoform@6.0.0',
-    'igorescobar:jquery-mask-plugin@1.14.15'
+    'igorescobar:jquery-mask-plugin@1.14.16'
   ], 'client');
 
   api.addFiles([
@@ -34,7 +34,7 @@ Package.on_test(function (api) {
     'underscore@1.0.0',
     'momentjs:moment@2.17.0',
     'aldeed:autoform@6.0.0',
-    'igorescobar:jquery-mask-plugin@1.14.15',
+    'igorescobar:jquery-mask-plugin@1.14.16',
     'jkutianski:autoform-datemask'
   ], 'client');
 
